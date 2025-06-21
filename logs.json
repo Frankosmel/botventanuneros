@@ -1,0 +1,8 @@
+[
+  {
+    "usuario_id": 123456789,
+    "servicio": "telegram",
+    "numero": "+12345678900",
+    "activation_id": "11223344"
+  }
+]
